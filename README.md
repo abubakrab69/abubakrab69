@@ -57,12 +57,11 @@ Here are some of my deployed projects:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <!-- <img height="170px" src="https://github-readme-stats.vercel.app/api?username=muhammad-abubakr&show_icons=true&theme=tokyonight" /> -->
   <img height="170px" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammad-abubakr&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammad-abubakr&layout=compact&theme=tokyonight" />
+  <!-- <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammad-abubakr&layout=compact&theme=tokyonight" /> -->
 </p>
 
 ---
