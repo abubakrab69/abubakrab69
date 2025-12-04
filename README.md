@@ -68,7 +68,9 @@ Here are some of my deployed projects:
 
 ## 📫 Connect With Me
 <p>
-  <a href="#"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
+  <a href="
+my-app-git-main-muhammad-abu-bakrs-projects.vercel.app
+"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/X(Twitter)-000?style=for-the-badge&logo=x&logoColor=white"/></a>
 </p>
